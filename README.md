@@ -18,7 +18,7 @@ CourseBookingApp is designed to simulate a simple educational platform where use
 This project follows a **client-server architecture** with a frontend UI and backend API communicating over HTTP.
 
 ---
-(images/readmeSS.png)
+![Screenshot](images/readmeSS.png)
 ---
 
 ## 🧱 Project Structure
