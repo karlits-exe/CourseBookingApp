@@ -25,7 +25,7 @@ This project follows a **client-server architecture** with a frontend UI and bac
 
 | Folder | Description |
 |--------|-------------|
-| `client` | Frontend application (likely using a modern JS framework) |
+| `client` | Frontend application (responsible for UI rendering and user interactions) |
 | `server` | Backend API (serves data to client and handles business logic) |
 
 ## 🛠️ Tech Stack
