@@ -6,7 +6,7 @@ const userRoutes = require('./routes/user');
 const courseRoutes = require("./routes/course");
 const enrollmentRoutes = require('./routes/enrollment');
 
-
+require("node:dns/promises").setServers(["1.1.1.1", "8.8.8.8"]);
 
 const app = express();
 require('dotenv').config();
